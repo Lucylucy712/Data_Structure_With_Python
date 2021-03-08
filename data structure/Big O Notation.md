@@ -1,5 +1,5 @@
 # Big O Notation 
 
-## Source I refered 
+## Source for reference 
 
 [Big O Notations](https://www.youtube.com/watch?v=V6mKVRU1evU)
