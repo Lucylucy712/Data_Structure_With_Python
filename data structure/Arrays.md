@@ -4,9 +4,13 @@
 [a. Duke Coursera](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
 
 [b. UC Berkeley 2006 CS61B](https://www.youtube.com/watch?v=22faPDaUwWY&list=PLu0nzW8Es1x3TmpwQRLMQwCtulEd43ZY8&index=5)
+
+[c.Arrays and Lists](https://www.bbc.co.uk/bitesize/guides/zy9thyc/revision/1)
+
+
 1. **Defination**
 
-Array is contiguous area of memory consisting of equal-size elements indexed by contiguous integers. Each is a primitive type or reference. 
+Array is contiguous area of memory consisting of equal-size elements indexed by contiguous integers. Each is a primitive type or reference. All data in an array must be of the same data type. 
 
 2. **Times for Commom Operations** 
 
