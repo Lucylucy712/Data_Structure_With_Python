@@ -1,4 +1,4 @@
-# Common Built-in Functions 
+## Common Built-in Functions 
 
 ![image](https://user-images.githubusercontent.com/38546128/110519099-8b179c80-80d2-11eb-92e5-e6ca8013a15e.png)
 
@@ -14,7 +14,7 @@
 `year = int(input("In what year were you born"))`
 
 
-# Files 
+## Files 
 
 `fp = open("sample.txt")`
 ![image](https://user-images.githubusercontent.com/38546128/110519679-39bbdd00-80d3-11eb-8917-9bbe214eace7.png)
