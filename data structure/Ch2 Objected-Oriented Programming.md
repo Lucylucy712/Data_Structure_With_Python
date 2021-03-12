@@ -22,5 +22,17 @@ It's a descriptions readable for human before we start writing an algorithms.
 - Functions:
       - lowercase 
       - multiple words are combined by underscores (e.g., `make_payment`)
-      - If the function's purpose is to return a value, it should be a noun to describe the value 
+      - If the function's purpose is to return a value, it should be a noun to describe the value (e.g., `sqrt` rather than `calculate_sqrt`
+
+- Names:
+      - lowercase noun for an individual object 
+      - A constant should be represented using all captial letters with underscores toseparapte words (e.g., `MAX_SIZE`)
+
+
+### Testing 
+
+
+
+
+
 
