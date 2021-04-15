@@ -49,15 +49,25 @@ For example, a decision tree is a binary tree.
 
 A ***traversal*** of a tree T is a systematic way of accessing, or visiting, all the positions of T. 
 
-### Preorder traversal: 
-The root of `T` is visited first and then the subtrees rooted at its children are traversed recursively. 
-![](2021-04-06-08-43-39.png)
+[Ref: Leetcode Tutorial](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/)
 
-### Postorder traversal: 
-It recursively traverses the subtrees rooted at the children of the root first, and then visits the root. 
-![](2021-04-06-08-44-34.png)
 
-### breadth-first traversal
 
-We visit all the positions at depth d before we visit the positions at depth d+1
+### Preorder traversal: (root-->left-->right)
 
+It's to visit the root first. Then traverse the left subtree. Finally, traverse the right subtree. 
+![](2021-04-14-11-19-00.png)
+
+
+### Inorder traversal: (left-->root-->right)
+
+It's to traverse the left subtree first. Then visit the root. Finally, traverse the right subtree. 
+
+
+![](2021-04-14-11-21-03.png)
+
+### Postorder traversal: (left-->right-->root)
+
+It's to traverse the left subtree first. Then traverse the right subtree. Finally, visit the root. 
+
+![](2021-04-14-11-49-58.png)
